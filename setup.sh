@@ -1,7 +1,5 @@
 echo "\
-[server]\n\
-port = $PORT\n\
-enableCORS = false\n\
-headless = true\n\
-\n\
+[general]\n\
+email = \"daabiola3@gmail.com\"n\
+">~/streamlit/credentials.toml
 
